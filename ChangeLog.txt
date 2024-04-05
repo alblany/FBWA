@@ -3,10 +3,10 @@
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v21",
-    "com.whatsapp": "https://fbmods.com/whats-plus/",
+    "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
     "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2021/12/fbwhatsapp.html",
     "com.fb2whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb2whatsapp-whatsapp-black.html",
-    "com.fb3whatsapp": "https://fbmods.com/whatsapp-gold-plus-new-apk/",
+    "com.fb3whatsapp": "https://fbmods.com/fb3-whatsapp-gold/",
     "com.fb4whatsapp": "https://fbmods.com/fb4-whatsapp-green/",
     "update_message": "
 <p>Update Vتحديث جديد« 21</p>
