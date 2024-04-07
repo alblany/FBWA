@@ -2,10 +2,13 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v24",
+    "update_version": "v25",
+    "com.whatsapp": "https://fbmods.com/whats-plus/",
     "com.gbwhatsapp": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
+    "com.gb2whatsapp": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
+    "com.gbwhatsapp3": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
     "update_message": "
-<p>Update Vتحديث جديد« 24</p>
+<p>Update Vتحديث جديد« 25</p>
 <li>تفعيل ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
 <li>تفعيل ارسال مقطع صوتي للاستماع لمرة واحدة</li>
 <li>تعطيل ظهور التاريخ والاسم بشكل تلقائي عند نسخ اكثر من رسالة</li>
