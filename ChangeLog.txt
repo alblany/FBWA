@@ -9,6 +9,8 @@
     "com.fb2whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb2whatsapp-whatsapp-black.html",
     "com.fb3whatsapp": "https://fbmods.com/fb3-whatsapp-gold/",
     "com.fb4whatsapp": "https://fbmods.com/fb4-whatsapp-green/",
+    "com.WhatsApp2Plus": "https://fbmods.com/whatsapp-gold-plus-new-apk/",
+    "com.WhatsApp3Plus": "https://dalilalmubtada.blogspot.com/2020/09/download-whatsapp-plus-red.html",
     "update_message": "
 <p>Update Vتحديث جديد« 21.30</p>
 <li>تفعيل ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
