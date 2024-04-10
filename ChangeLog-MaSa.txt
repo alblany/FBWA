@@ -1,0 +1,27 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v46",
+    "com.masha": "https://dalilalmubtada.blogspot.com/2020/07/whatsapp-masha-and-bear.html",
+    "com.sabaya": "https://dalilalmubtada.blogspot.com/2020/07/whatsapp-sabaya-pink.html",
+    "update_message": "
+<p>Update Vتحديث جديد« 46</p>
+<li>تفعيل ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
+<li>تفعيل ارسال مقطع صوتي للاستماع لمرة واحدة</li>
+<li>تعطيل ظهور التاريخ والاسم بشكل تلقائي عند نسخ اكثر من رسالة</li>
+<li>اضافة طريقة جديد لعرض وتطبيق الخطوط</li>
+<li>اضافة إمكانية الاتصال بحسابات بزنس عبر مكالمة هاتفية</li>
+<li>مزيد إصلاحات وتحسينات أخرى</li>
+
+<li>Added option to hide revoked story notification</li>
+<li>Improving Statues download fab</li>
+<li>Improving Translation button in chat</li>
+<li>Improving Online toast</li>
+<li>Fixed send location</li>
+<li>Fixed custom settings for businesse chats</li>
+<li>Fixed playing videos with Mx player</li>
+<li>Other fixes</li>
+"
+    }
+}
