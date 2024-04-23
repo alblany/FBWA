@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "5",
     "reminder_time": "3",
-    "update_version": "v46",
+    "update_version": "v47",
     "com.masha": "https://t.me/SabayaMasha/648",
     "com.sabaya": "https://dalilalmubtada.blogspot.com/2020/07/whatsapp-sabaya-pink.html",
     "update_message": "
