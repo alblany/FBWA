@@ -1,12 +1,12 @@
 {
   "Gold": {
-    "update_code": "4",
+    "update_code": "5",
     "reminder_time": "3",
     "update_version": "v21.35",
     "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
     "com.fbwhatsapp": "https://t.me/alblany/1046",
     "com.fb1whatsapp": "https://fbmods.com/fb1whatsapp/",
-    "com.fb2whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb2whatsapp-whatsapp-black.html",
+    "com.fb2whatsapp": "https://fbmods.com/whatsapp-balck-apk/",
     "com.fb3whatsapp": "https://fbmods.com/fb3-whatsapp-gold/",
     "com.fb4whatsapp": "https://fbmods.com/fb4-whatsapp-green/",
     "update_message": "
