@@ -11,12 +11,14 @@
     "com.fb4whatsapp": "https://fbmods.com/fb4-whatsapp-green/",
     "update_message": "
 <p>Update Vتحديث جديد« 21.35</p>
+<li>ملاحظة مهمة: لكي تعمل معك المميزات بشكل كامل قم بالدخول الى إضافات البلاني ومن ثم الثيمات وقم بالضغط على خيار اعادة الضبط.</li>
 <li>إضافة امكانيه نشر الحالات في الاجهزة المرتبطه.</li>
 <li>إضافة امكانيه مشاهده القنوات في الاجهزة المرتبطه.</li>
 <li>تم إرجاع جميع الميزات القديمة.</li>
 <li>تحسين زيادة الحماية ضد الحظر!</li>
 <li>مزيد إصلاحات وتحسينات أخرى</li>
 
+<li>Important note: In order for the features to work with you fully, go to FBWA Settings and then Themes and click on the Reset preferences.</li>
 <li>Added You can post Status in linked device</li>
 <li>All old features have been returned</li>
 <li>Added See channels in linked device</li>
