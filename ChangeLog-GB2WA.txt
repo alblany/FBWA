@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "4",
+    "update_code": "5",
     "reminder_time": "3",
     "update_version": "v26",
     "com.gbwhatsapp": "https://fbmods.com/download-gbwhatsapp-apk/",
