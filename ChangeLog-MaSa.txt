@@ -3,7 +3,7 @@
     "update_code": "5",
     "reminder_time": "3",
     "update_version": "v47",
-    "com.masha": "https://t.me/SabayaMasha/648",
+    "com.masha": "https://dalilalmubtada.blogspot.com/2020/07/whatsapp-masha-and-bear.html",
     "com.sabaya": "https://dalilalmubtada.blogspot.com/2020/07/whatsapp-sabaya-pink.html",
     "update_message": "
 <p>Update Vتحديث جديد« 47</p>
