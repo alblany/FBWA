@@ -4,7 +4,7 @@
     "reminder_time": "3",
     "update_version": "v21.35",
     "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
-    "com.fbwhatsapp": "https://t.me/alblany/1046",
+    "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2021/12/fbwhatsapp.html",
     "com.fb1whatsapp": "https://fbmods.com/fb1whatsapp/",
     "com.fb2whatsapp": "https://fbmods.com/whatsapp-balck-apk/",
     "com.fb3whatsapp": "https://fbmods.com/fb3-whatsapp-gold/",
