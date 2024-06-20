@@ -1,26 +1,32 @@
 {
   "Gold": {
-    "update_code": "5",
+    "update_code": "9",
     "reminder_time": "3",
-    "update_version": "v26",
-    "com.gbwhatsapp": "https://fbmods.com/download-gbwhatsapp-apk/",
+    "update_version": "v28.05",
+    "com.gbwhatsapp": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
     "com.gb2whatsapp": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
     "com.gbwhatsapp3": "https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html",
     "update_message": "
-<p>Update Vتحديث جديد« 26</p>
+<p>Update Vتحديث جديد« 28.5</p>
 <li>ملاحظة مهمة: لكي تعمل معك المميزات بشكل كامل قم بالدخول الى إضافات البلاني ومن ثم الثيمات وقم بالضغط على خيار اعادة الضبط.</li>
-<li>إضافة امكانيه نشر الحالات في الاجهزة المرتبطه.</li>
-<li>إضافة امكانيه مشاهده القنوات في الاجهزة المرتبطه.</li>
-<li>تم إرجاع جميع الميزات القديمة.</li>
-<li>تحسين زيادة الحماية ضد الحظر!</li>
+<li>تحديث قاعدة الواتساب: 2.24.9.78.</li>
+<li>تحسين الحماية ضد الحظر.</li>
+<li>تفعيل كافة مميزات الإصدار الجديد.</li>
+<li>إصلاح مشكلة التعطل عند الربط.</li>
+<li>إصلاح الكثير من الأخطاء.</li>
 <li>مزيد إصلاحات وتحسينات أخرى</li>
 
 <li>Important note: In order for the features to work with you fully, go to GBWA Settings and then Themes and click on the Reset preferences.</li>
-<li>Added You can post Status in linked device</li>
-<li>All old features have been returned</li>
-<li>Added See channels in linked device</li>
-<li>ImprovedMore Anti-ban protection</li>
-<li>Misc Other fixes and improvements</li>
+<li>Base Update: 2.24.9.78 — Play Store</li>
+<li>Improvement Anti-ban protection has been improved.</li>
+<li>Improvement Device connectivity has been improved.</li>
+<li>Activate all features of the new version.</li>
+<li>Fixed the crash problem when linking.</li>
+<li>Fixed a lot of bugs.</li>
+<li>Fixed Crash in some phones.</li>
+<li>Crash in some phones.</li>
+<li>Improvements related to app stability and performance.</li>
+<li>More important fixes and improvements.</li>
 "
     }
 }
